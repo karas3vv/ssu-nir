@@ -1,0 +1,16 @@
+\documentclass{article}
+\usepackage{multirow}
+\usepackage[russian]{babel}
+\begin{document}
+\begin{table}[!ht]
+\begin{tabular}{|l|llll|}
+\hline
+\multicolumn{1}{|c|}{\multirow{2}{*}{Вид отчётности}} & \multicolumn{4}{c|}{Семестр}                                                                      \\ \cline{2-5} 
+\multicolumn{1}{|c|}{}                                & \multicolumn{2}{c|}{1}                        & \multicolumn{2}{c|}{2}                            \\ \hline
+\multirow{2}{*}{Зачёты}                               & \multicolumn{2}{l|}{История России}           & \multicolumn{2}{l|}{Алгебра и геометрия}          \\ \cline{2-5} 
+                                                      & \multicolumn{2}{l|}{Введение в специальность} & \multicolumn{2}{l|}{Русский язык и культура речи} \\ \hline
+\multirow{2}{*}{Экзамены}                             & \multicolumn{2}{l|}{Математический анализ}    & \multicolumn{2}{l|}{История России}               \\ \cline{2-5} 
+                                                      & \multicolumn{2}{l|}{Алгебра и геометрия}      & \multicolumn{2}{l|}{Математический анализ}        \\ \hline
+\end{tabular}
+\end{table}
+\end{document}
