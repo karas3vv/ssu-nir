@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.11.19)  26 NOV 2024 22:53
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.11.20)  28 NOV 2024 11:31
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -841,51 +841,87 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 
 ] [4
 
-] [5] [6
-
-] [7] [8
-
 ]
-Overfull \hbox (19.81508pt too wide) in paragraph at lines 245--246
+<pic1.png, id=127, 361.35pt x 542.025pt>
+File: pic1.png Graphic file (type png)
+<use pic1.png>
+Package pdftex.def Info: pic1.png  used on input line 174.
+(pdftex.def)             Requested size: 193.47578pt x 290.21622pt.
+ [5 <./pic1.png>] [6
+
+] [7]
+<pic2.png, id=144, 549.55313pt x 193.47281pt>
+File: pic2.png Graphic file (type png)
+<use pic2.png>
+Package pdftex.def Info: pic2.png  used on input line 221.
+(pdftex.def)             Requested size: 290.22107pt x 102.17699pt.
+ [8
+
+ <./pic2.png>]
+Overfull \hbox (19.81508pt too wide) in paragraph at lines 258--259
 []\T2A/cmr/m/n/14.4 Осторожно ис-поль-зуй-те ком-прес-сию, что-бы из-бе-жать "з
 а-дав-лен-но-го"звука
  []
 
 [9] [10]
-Overfull \hbox (19.42593pt too wide) in paragraph at lines 320--321
+<pic3.png, id=159, 389.95688pt x 461.47406pt>
+File: pic3.png Graphic file (type png)
+<use pic3.png>
+Package pdftex.def Info: pic3.png  used on input line 310.
+(pdftex.def)             Requested size: 290.22107pt x 343.45706pt.
+ [11
+
+ <./pic3.png>]
+Overfull \hbox (19.42593pt too wide) in paragraph at lines 338--339
 []\T2A/cmr/m/n/14.4 Восприятие: Пе-ре-гру-жен-ность это-го диа-па-зо-на де-ла-е
 т звук "гну-са-вым"или
  []
 
-[11
+[12] [13]
+<pic4.png, id=175, 388.45125pt x 231.11343pt>
+File: pic4.png Graphic file (type png)
+<use pic4.png>
+Package pdftex.def Info: pic4.png  used on input line 389.
+(pdftex.def)             Requested size: 290.22107pt x 172.67519pt.
 
-] [12]
-Overfull \hbox (3.61314pt too wide) in paragraph at lines 370--371
+Overfull \hbox (3.61314pt too wide) in paragraph at lines 395--396
 []\T2A/cmr/m/n/14.4 Эквалайзер поз-во-ля-ет, на-при-мер, уси-ли-вать ба-сы (низ
 -кие ча-сто-ты), при-
  []
 
-[13
+[14
 
-] [14] [15
-
-] [16] [17
+ <./pic4.png>] [15] [16] [17
 
 ] [18] [19
 
 ] [20] [21
 
+] [22] [23
+
 ]
-Overfull \hbox (5.88959pt too wide) in paragraph at lines 584--585
+Overfull \hbox (5.88959pt too wide) in paragraph at lines 608--609
 []\T2A/cmr/m/n/14.4 Мюллер М. Fundamentals of Music Processing: Audio, Analysis
 , Algorithms,
  []
 
 
-Package caption Warning: Unused \captionsetup[figure] on input line 35.
-See the caption package documentation for explanation.
+Overfull \hbox (4.59087pt too wide) in paragraph at lines 610--611
+[]\T2A/cmr/m/n/14.4 Nika Aldrich. Digital Audio Explained: For the Audio Engine
+er. CreateSpace,
+ []
 
-[22
+LaTeX Font Info:    Trying to load font information for T2A+cmtt on input line 
+612.
+(C:\Users\karas\AppData\Local\Programs\MiKTeX\tex/latex/cyrillic\t2acmtt.fd
+File: t2acmtt.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
+)
+Overfull \hbox (43.03288pt too wide) in paragraph at lines 613--614
+\T2A/cmr/m/n/14.4 / Хабр [Элек-трон-ный ре-сурс]. До-ступ-но на: [][]$\T2A/cmtt
+/m/n/14.4 https : / / habr . com / ru / companies /
+ []
+
+[24
 
 ] (Р РµС„РµСЂР°С‚.aux)
  ***********
@@ -893,23 +929,23 @@ LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
  ***********
 Package rerunfilecheck Info: File `Р РµС„РµСЂР°С‚.out' has not changed.
-(rerunfilecheck)             Checksum: 918B4EF7AC2AF07880B8AC5A8AB57C57;5398.
+(rerunfilecheck)             Checksum: 5DE91F5366FCDC03C4BD476D30FEFB4B;5398.
  ) 
 Here is how much of TeX's memory you used:
- 15747 strings out of 474486
- 252243 string characters out of 5743754
+ 15813 strings out of 474486
+ 253627 string characters out of 5743754
  1933542 words of memory out of 5000000
- 37766 multiletter control sequences out of 15000+600000
- 562633 words of font info for 50 fonts, out of 8000000 for 9000
+ 37819 multiletter control sequences out of 15000+600000
+ 562602 words of font info for 50 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,6n,79p,843b,459s stack positions out of 10000i,1000n,20000p,200000b,200000s
- <C:\Users\karas\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm
-1440.pk> <C:\Users\karas\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\
-labx1440.pk> <C:\Users\karas\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi
-600\larm1440.pk>
-Output written on Р РµС„РµСЂР°С‚.pdf (22 pages, 138390 bytes).
+ 75i,7n,79p,876b,463s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\karas\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\latt14
+40.pk> <C:\Users\karas\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\la
+bx1440.pk> <C:\Users\karas\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi60
+0\larm1440.pk>
+Output written on Р РµС„РµСЂР°С‚.pdf (24 pages, 953827 bytes).
 PDF statistics:
- 439 PDF objects out of 1000 (max. 8388607)
- 48 named destinations out of 1000 (max. 500000)
- 169 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 502 PDF objects out of 1000 (max. 8388607)
+ 58 named destinations out of 1000 (max. 500000)
+ 189 words of extra memory for PDF output out of 10000 (max. 10000000)
 
