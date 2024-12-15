@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.11.20)  4 DEC 2024 15:06
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.11.20)  11 DEC 2024 14:53
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -732,59 +732,34 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip69
 )
-(C:\Users\karas\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.sty
-\lst@mode=\count308
-\lst@gtempboxa=\box65
-\lst@token=\toks39
-\lst@length=\count309
-\lst@currlwidth=\dimen191
-\lst@column=\count310
-\lst@pos=\count311
-\lst@lostspace=\dimen192
-\lst@width=\dimen193
-\lst@newlines=\count312
-\lst@lineno=\count313
-\lst@maxwidth=\dimen194
-
-(C:\Users\karas\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstmisc.sty
-File: lstmisc.sty 2023/02/27 1.9 (Carsten Heinz)
-\c@lstnumber=\count314
-\lst@skipnumbers=\count315
-\lst@framebox=\box66
-)
-(C:\Users\karas\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.cfg
-File: listings.cfg 2023/02/27 1.9 listings configuration
-))
-Package: listings 2023/02/27 1.9 (Carsten Heinz)
-
 (C:\Users\karas\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
 tex.def
 File: l3backend-pdftex.def 2024-01-04 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count316
-\l__pdf_internal_box=\box67
+\l__color_backend_stack_int=\count308
+\l__pdf_internal_box=\box65
 ) (РџСЂР°РєС‚РёРєР°.aux)
 \openout1 = `РџСЂР°РєС‚РёРєР°.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -822,7 +797,7 @@ LaTeX Font Info:    ... okay on input line 47.
 
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: Option `justification=RaggedRight' requires the `ragged2e
-' package on input line 47.
+' package on input line 45.
 (C:\Users\karas\AppData\Local\Programs\MiKTeX\tex/latex/ragged2e\ragged2e.sty
 Package: ragged2e 2023/06/22 v3.6 ragged2e Package
 \CenteringLeftskip=\skip70
@@ -841,7 +816,6 @@ Package: ragged2e 2023/06/22 v3.6 ragged2e Package
 \JustifyingParindent=\skip83
 )
 Package caption Info: hyperref package is loaded.
-Package caption Info: listings package is loaded.
 Package caption Info: longtable package is loaded.
 
 (C:\Users\karas\AppData\Local\Programs\MiKTeX\tex/latex/caption\ltcaption.sty
@@ -852,17 +826,17 @@ Package caption Info: End \AtBeginDocument code.
 (C:\Users\karas\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
 ii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count317
-\scratchdimen=\dimen195
-\scratchbox=\box68
-\nofMPsegments=\count318
-\nofMParguments=\count319
-\everyMPshowfont=\toks40
-\MPscratchCnt=\count320
-\MPscratchDim=\dimen196
-\MPnumerator=\count321
-\makeMPintoPDFobject=\count322
-\everyMPtoPDFconversion=\toks41
+\scratchcounter=\count309
+\scratchdimen=\dimen191
+\scratchbox=\box66
+\nofMPsegments=\count310
+\nofMParguments=\count311
+\everyMPshowfont=\toks39
+\MPscratchCnt=\count312
+\MPscratchDim=\dimen192
+\MPnumerator=\count313
+\makeMPintoPDFobject=\count314
+\everyMPtoPDFconversion=\toks40
 )
 (C:\Users\karas\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
 ase.sty
@@ -887,27 +861,26 @@ Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
 )
 Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
 ))
-LaTeX Info: Redefining \th on input line 47.
-Package hyperref Info: Link coloring ON on input line 47.
+LaTeX Info: Redefining \th on input line 45.
+Package hyperref Info: Link coloring ON on input line 45.
 
 (РџСЂР°РєС‚РёРєР°.out) (РџСЂР°РєС‚РёРєР°.out)
 \@outlinefile=\write4
 \openout4 = `РџСЂР°РєС‚РёРєР°.out'.
 
-\c@lstlisting=\count323
-LaTeX Font Info:    Trying to load font information for U+msa on input line 107
+LaTeX Font Info:    Trying to load font information for U+msa on input line 105
 .
 
 (C:\Users\karas\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 107
+LaTeX Font Info:    Trying to load font information for U+msb on input line 105
 .
 
 (C:\Users\karas\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-Underfull \hbox (badness 10000) in paragraph at lines 107--107
+Underfull \hbox (badness 10000) in paragraph at lines 105--105
 
  []
 
@@ -921,1359 +894,501 @@ Underfull \hbox (badness 10000) in paragraph at lines 107--107
  [3
 
 ]
-Overfull \hbox (8.8692pt too wide) in paragraph at lines 140--141
+Overfull \hbox (8.8692pt too wide) in paragraph at lines 138--139
 \T2A/cmr/m/n/14.4 ТЫ. ПО-РЯ-ДОК ВЫ-ПОЛ-НЕ-НИЯ, СТРУК-ТУ-РА И ПРА-ВИ-ЛА ОФОРМ-
  []
 
 [4
 
 ]
-<Referat.pdf, id=44, 597.50829pt x 845.0471pt>
+<Referat.pdf, id=49, 597.50829pt x 845.0471pt>
 File: Referat.pdf Graphic file (type pdf)
 <use Referat.pdf>
-Package pdftex.def Info: Referat.pdf  used on input line 151.
+Package pdftex.def Info: Referat.pdf  used on input line 149.
 (pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
 File: Referat.pdf Graphic file (type pdf)
 <use Referat.pdf>
-Package pdftex.def Info: Referat.pdf  used on input line 151.
+Package pdftex.def Info: Referat.pdf  used on input line 149.
 (pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
-<Referat.pdf, id=47, page=1, 597.50829pt x 845.0471pt>
+<Referat.pdf, id=52, page=1, 597.50829pt x 845.0471pt>
 File: Referat.pdf Graphic file (type pdf)
 <use Referat.pdf, page 1>
-Package pdftex.def Info: Referat.pdf , page1 used on input line 151.
+Package pdftex.def Info: Referat.pdf , page1 used on input line 149.
 (pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
 File: Referat.pdf Graphic file (type pdf)
 <use Referat.pdf, page 1>
-Package pdftex.def Info: Referat.pdf , page1 used on input line 151.
+Package pdftex.def Info: Referat.pdf , page1 used on input line 149.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
  [5
 
 ]
 File: Referat.pdf Graphic file (type pdf)
 <use Referat.pdf, page 1>
-Package pdftex.def Info: Referat.pdf , page1 used on input line 151.
+Package pdftex.def Info: Referat.pdf , page1 used on input line 149.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 File: Referat.pdf Graphic file (type pdf)
 <use Referat.pdf, page 1>
-Package pdftex.def Info: Referat.pdf , page1 used on input line 151.
+Package pdftex.def Info: Referat.pdf , page1 used on input line 149.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 File: Referat.pdf Graphic file (type pdf)
 <use Referat.pdf, page 1>
-Package pdftex.def Info: Referat.pdf , page1 used on input line 151.
+Package pdftex.def Info: Referat.pdf , page1 used on input line 149.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
  [6
 
  <./Referat.pdf>]
-<Referat.pdf, id=255, page=2, 597.50829pt x 845.0471pt>
+<Referat.pdf, id=284, page=2, 597.50829pt x 845.0471pt>
 File: Referat.pdf Graphic file (type pdf)
 <use Referat.pdf, page 2>
-Package pdftex.def Info: Referat.pdf , page2 used on input line 151.
+Package pdftex.def Info: Referat.pdf , page2 used on input line 149.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 File: Referat.pdf Graphic file (type pdf)
 <use Referat.pdf, page 2>
-Package pdftex.def Info: Referat.pdf , page2 used on input line 151.
+Package pdftex.def Info: Referat.pdf , page2 used on input line 149.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 File: Referat.pdf Graphic file (type pdf)
 <use Referat.pdf, page 2>
-Package pdftex.def Info: Referat.pdf , page2 used on input line 151.
+Package pdftex.def Info: Referat.pdf , page2 used on input line 149.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
  [7
 
  <./Referat.pdf>]
-<Referat.pdf, id=261, page=3, 597.50829pt x 845.0471pt>
+<Referat.pdf, id=290, page=3, 597.50829pt x 845.0471pt>
 File: Referat.pdf Graphic file (type pdf)
 <use Referat.pdf, page 3>
-Package pdftex.def Info: Referat.pdf , page3 used on input line 151.
+Package pdftex.def Info: Referat.pdf , page3 used on input line 149.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 File: Referat.pdf Graphic file (type pdf)
 <use Referat.pdf, page 3>
-Package pdftex.def Info: Referat.pdf , page3 used on input line 151.
+Package pdftex.def Info: Referat.pdf , page3 used on input line 149.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 File: Referat.pdf Graphic file (type pdf)
 <use Referat.pdf, page 3>
-Package pdftex.def Info: Referat.pdf , page3 used on input line 151.
+Package pdftex.def Info: Referat.pdf , page3 used on input line 149.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
  [8
 
  <./Referat.pdf>]
-<Referat.pdf, id=284, page=4, 597.50829pt x 845.0471pt>
+<Referat.pdf, id=295, page=4, 597.50829pt x 845.0471pt>
 File: Referat.pdf Graphic file (type pdf)
 <use Referat.pdf, page 4>
-Package pdftex.def Info: Referat.pdf , page4 used on input line 151.
+Package pdftex.def Info: Referat.pdf , page4 used on input line 149.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 File: Referat.pdf Graphic file (type pdf)
 <use Referat.pdf, page 4>
-Package pdftex.def Info: Referat.pdf , page4 used on input line 151.
+Package pdftex.def Info: Referat.pdf , page4 used on input line 149.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 File: Referat.pdf Graphic file (type pdf)
 <use Referat.pdf, page 4>
-Package pdftex.def Info: Referat.pdf , page4 used on input line 151.
+Package pdftex.def Info: Referat.pdf , page4 used on input line 149.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
  [9
 
  <./Referat.pdf>]
-<Referat.pdf, id=294, page=5, 597.50829pt x 845.0471pt>
+<Referat.pdf, id=300, page=5, 597.50829pt x 845.0471pt>
 File: Referat.pdf Graphic file (type pdf)
 <use Referat.pdf, page 5>
-Package pdftex.def Info: Referat.pdf , page5 used on input line 151.
+Package pdftex.def Info: Referat.pdf , page5 used on input line 149.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 File: Referat.pdf Graphic file (type pdf)
 <use Referat.pdf, page 5>
-Package pdftex.def Info: Referat.pdf , page5 used on input line 151.
+Package pdftex.def Info: Referat.pdf , page5 used on input line 149.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 File: Referat.pdf Graphic file (type pdf)
 <use Referat.pdf, page 5>
-Package pdftex.def Info: Referat.pdf , page5 used on input line 151.
+Package pdftex.def Info: Referat.pdf , page5 used on input line 149.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
  [10
 
  <./Referat.pdf>]
-<Referat.pdf, id=338, page=6, 597.50829pt x 845.0471pt>
+<Referat.pdf, id=308, page=6, 597.50829pt x 845.0471pt>
 File: Referat.pdf Graphic file (type pdf)
 <use Referat.pdf, page 6>
-Package pdftex.def Info: Referat.pdf , page6 used on input line 151.
+Package pdftex.def Info: Referat.pdf , page6 used on input line 149.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 File: Referat.pdf Graphic file (type pdf)
 <use Referat.pdf, page 6>
-Package pdftex.def Info: Referat.pdf , page6 used on input line 151.
+Package pdftex.def Info: Referat.pdf , page6 used on input line 149.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 File: Referat.pdf Graphic file (type pdf)
 <use Referat.pdf, page 6>
-Package pdftex.def Info: Referat.pdf , page6 used on input line 151.
+Package pdftex.def Info: Referat.pdf , page6 used on input line 149.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
  [11
 
  <./Referat.pdf>]
-<Referat.pdf, id=344, page=7, 597.50829pt x 845.0471pt>
+<Referat.pdf, id=313, page=7, 597.50829pt x 845.0471pt>
 File: Referat.pdf Graphic file (type pdf)
 <use Referat.pdf, page 7>
-Package pdftex.def Info: Referat.pdf , page7 used on input line 151.
+Package pdftex.def Info: Referat.pdf , page7 used on input line 149.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 File: Referat.pdf Graphic file (type pdf)
 <use Referat.pdf, page 7>
-Package pdftex.def Info: Referat.pdf , page7 used on input line 151.
+Package pdftex.def Info: Referat.pdf , page7 used on input line 149.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 File: Referat.pdf Graphic file (type pdf)
 <use Referat.pdf, page 7>
-Package pdftex.def Info: Referat.pdf , page7 used on input line 151.
+Package pdftex.def Info: Referat.pdf , page7 used on input line 149.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
  [12
 
  <./Referat.pdf>]
-<Referat.pdf, id=349, page=8, 597.50829pt x 845.0471pt>
+<Referat.pdf, id=318, page=8, 597.50829pt x 845.0471pt>
 File: Referat.pdf Graphic file (type pdf)
 <use Referat.pdf, page 8>
-Package pdftex.def Info: Referat.pdf , page8 used on input line 151.
+Package pdftex.def Info: Referat.pdf , page8 used on input line 149.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 File: Referat.pdf Graphic file (type pdf)
 <use Referat.pdf, page 8>
-Package pdftex.def Info: Referat.pdf , page8 used on input line 151.
+Package pdftex.def Info: Referat.pdf , page8 used on input line 149.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 File: Referat.pdf Graphic file (type pdf)
 <use Referat.pdf, page 8>
-Package pdftex.def Info: Referat.pdf , page8 used on input line 151.
+Package pdftex.def Info: Referat.pdf , page8 used on input line 149.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 
 [13
 
  <./Referat.pdf>]
-<Referat.pdf, id=362, page=9, 597.50829pt x 845.0471pt>
+<Referat.pdf, id=324, page=9, 597.50829pt x 845.0471pt>
 File: Referat.pdf Graphic file (type pdf)
 <use Referat.pdf, page 9>
-Package pdftex.def Info: Referat.pdf , page9 used on input line 151.
+Package pdftex.def Info: Referat.pdf , page9 used on input line 149.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 File: Referat.pdf Graphic file (type pdf)
 <use Referat.pdf, page 9>
-Package pdftex.def Info: Referat.pdf , page9 used on input line 151.
+Package pdftex.def Info: Referat.pdf , page9 used on input line 149.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 File: Referat.pdf Graphic file (type pdf)
 <use Referat.pdf, page 9>
-Package pdftex.def Info: Referat.pdf , page9 used on input line 151.
+Package pdftex.def Info: Referat.pdf , page9 used on input line 149.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
  [14
 
  <./Referat.pdf>]
-<Referat.pdf, id=370, page=10, 597.50829pt x 845.0471pt>
+<Referat.pdf, id=329, page=10, 597.50829pt x 845.0471pt>
 File: Referat.pdf Graphic file (type pdf)
 <use Referat.pdf, page 10>
-Package pdftex.def Info: Referat.pdf , page10 used on input line 151.
+Package pdftex.def Info: Referat.pdf , page10 used on input line 149.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 File: Referat.pdf Graphic file (type pdf)
 <use Referat.pdf, page 10>
-Package pdftex.def Info: Referat.pdf , page10 used on input line 151.
+Package pdftex.def Info: Referat.pdf , page10 used on input line 149.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 File: Referat.pdf Graphic file (type pdf)
 <use Referat.pdf, page 10>
-Package pdftex.def Info: Referat.pdf , page10 used on input line 151.
+Package pdftex.def Info: Referat.pdf , page10 used on input line 149.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
  [15
 
  <./Referat.pdf>]
-<Referat.pdf, id=397, page=11, 597.50829pt x 845.0471pt>
+<Referat.pdf, id=334, page=11, 597.50829pt x 845.0471pt>
 File: Referat.pdf Graphic file (type pdf)
 <use Referat.pdf, page 11>
-Package pdftex.def Info: Referat.pdf , page11 used on input line 151.
+Package pdftex.def Info: Referat.pdf , page11 used on input line 149.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 File: Referat.pdf Graphic file (type pdf)
 <use Referat.pdf, page 11>
-Package pdftex.def Info: Referat.pdf , page11 used on input line 151.
+Package pdftex.def Info: Referat.pdf , page11 used on input line 149.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 File: Referat.pdf Graphic file (type pdf)
 <use Referat.pdf, page 11>
-Package pdftex.def Info: Referat.pdf , page11 used on input line 151.
+Package pdftex.def Info: Referat.pdf , page11 used on input line 149.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
  [16
 
  <./Referat.pdf>]
-<Referat.pdf, id=473, page=12, 597.50829pt x 845.0471pt>
+<Referat.pdf, id=342, page=12, 597.50829pt x 845.0471pt>
 File: Referat.pdf Graphic file (type pdf)
 <use Referat.pdf, page 12>
-Package pdftex.def Info: Referat.pdf , page12 used on input line 151.
+Package pdftex.def Info: Referat.pdf , page12 used on input line 149.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 File: Referat.pdf Graphic file (type pdf)
 <use Referat.pdf, page 12>
-Package pdftex.def Info: Referat.pdf , page12 used on input line 151.
+Package pdftex.def Info: Referat.pdf , page12 used on input line 149.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 File: Referat.pdf Graphic file (type pdf)
 <use Referat.pdf, page 12>
-Package pdftex.def Info: Referat.pdf , page12 used on input line 151.
+Package pdftex.def Info: Referat.pdf , page12 used on input line 149.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
  [17
 
  <./Referat.pdf>]
-<Referat.pdf, id=528, page=13, 597.50829pt x 845.0471pt>
+<Referat.pdf, id=347, page=13, 597.50829pt x 845.0471pt>
 File: Referat.pdf Graphic file (type pdf)
 <use Referat.pdf, page 13>
-Package pdftex.def Info: Referat.pdf , page13 used on input line 151.
+Package pdftex.def Info: Referat.pdf , page13 used on input line 149.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 File: Referat.pdf Graphic file (type pdf)
 <use Referat.pdf, page 13>
-Package pdftex.def Info: Referat.pdf , page13 used on input line 151.
+Package pdftex.def Info: Referat.pdf , page13 used on input line 149.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 File: Referat.pdf Graphic file (type pdf)
 <use Referat.pdf, page 13>
-Package pdftex.def Info: Referat.pdf , page13 used on input line 151.
+Package pdftex.def Info: Referat.pdf , page13 used on input line 149.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
  [18
 
  <./Referat.pdf>]
-<Referat.pdf, id=536, page=14, 597.50829pt x 845.0471pt>
+<Referat.pdf, id=352, page=14, 597.50829pt x 845.0471pt>
 File: Referat.pdf Graphic file (type pdf)
 <use Referat.pdf, page 14>
-Package pdftex.def Info: Referat.pdf , page14 used on input line 151.
+Package pdftex.def Info: Referat.pdf , page14 used on input line 149.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 File: Referat.pdf Graphic file (type pdf)
 <use Referat.pdf, page 14>
-Package pdftex.def Info: Referat.pdf , page14 used on input line 151.
+Package pdftex.def Info: Referat.pdf , page14 used on input line 149.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 File: Referat.pdf Graphic file (type pdf)
 <use Referat.pdf, page 14>
-Package pdftex.def Info: Referat.pdf , page14 used on input line 151.
+Package pdftex.def Info: Referat.pdf , page14 used on input line 149.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
  [19
 
  <./Referat.pdf>]
-<Referat.pdf, id=543, page=15, 597.50829pt x 845.0471pt>
+<Referat.pdf, id=361, page=15, 597.50829pt x 845.0471pt>
 File: Referat.pdf Graphic file (type pdf)
 <use Referat.pdf, page 15>
-Package pdftex.def Info: Referat.pdf , page15 used on input line 151.
+Package pdftex.def Info: Referat.pdf , page15 used on input line 149.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 File: Referat.pdf Graphic file (type pdf)
 <use Referat.pdf, page 15>
-Package pdftex.def Info: Referat.pdf , page15 used on input line 151.
+Package pdftex.def Info: Referat.pdf , page15 used on input line 149.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 File: Referat.pdf Graphic file (type pdf)
 <use Referat.pdf, page 15>
-Package pdftex.def Info: Referat.pdf , page15 used on input line 151.
+Package pdftex.def Info: Referat.pdf , page15 used on input line 149.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
  [20
 
  <./Referat.pdf>]
-<Referat.pdf, id=548, page=16, 597.50829pt x 845.0471pt>
+<Referat.pdf, id=366, page=16, 597.50829pt x 845.0471pt>
 File: Referat.pdf Graphic file (type pdf)
 <use Referat.pdf, page 16>
-Package pdftex.def Info: Referat.pdf , page16 used on input line 151.
+Package pdftex.def Info: Referat.pdf , page16 used on input line 149.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 File: Referat.pdf Graphic file (type pdf)
 <use Referat.pdf, page 16>
-Package pdftex.def Info: Referat.pdf , page16 used on input line 151.
+Package pdftex.def Info: Referat.pdf , page16 used on input line 149.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 File: Referat.pdf Graphic file (type pdf)
 <use Referat.pdf, page 16>
-Package pdftex.def Info: Referat.pdf , page16 used on input line 151.
+Package pdftex.def Info: Referat.pdf , page16 used on input line 149.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
  [21
 
  <./Referat.pdf>]
-<Referat.pdf, id=553, page=17, 597.50829pt x 845.0471pt>
+<Referat.pdf, id=371, page=17, 597.50829pt x 845.0471pt>
 File: Referat.pdf Graphic file (type pdf)
 <use Referat.pdf, page 17>
-Package pdftex.def Info: Referat.pdf , page17 used on input line 151.
+Package pdftex.def Info: Referat.pdf , page17 used on input line 149.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 File: Referat.pdf Graphic file (type pdf)
 <use Referat.pdf, page 17>
-Package pdftex.def Info: Referat.pdf , page17 used on input line 151.
+Package pdftex.def Info: Referat.pdf , page17 used on input line 149.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 File: Referat.pdf Graphic file (type pdf)
 <use Referat.pdf, page 17>
-Package pdftex.def Info: Referat.pdf , page17 used on input line 151.
+Package pdftex.def Info: Referat.pdf , page17 used on input line 149.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
  [22
 
  <./Referat.pdf>]
-<Referat.pdf, id=558, page=18, 597.50829pt x 845.0471pt>
+<Referat.pdf, id=376, page=18, 597.50829pt x 845.0471pt>
 File: Referat.pdf Graphic file (type pdf)
 <use Referat.pdf, page 18>
-Package pdftex.def Info: Referat.pdf , page18 used on input line 151.
+Package pdftex.def Info: Referat.pdf , page18 used on input line 149.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 File: Referat.pdf Graphic file (type pdf)
 <use Referat.pdf, page 18>
-Package pdftex.def Info: Referat.pdf , page18 used on input line 151.
+Package pdftex.def Info: Referat.pdf , page18 used on input line 149.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 File: Referat.pdf Graphic file (type pdf)
 <use Referat.pdf, page 18>
-Package pdftex.def Info: Referat.pdf , page18 used on input line 151.
+Package pdftex.def Info: Referat.pdf , page18 used on input line 149.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
  [23
 
  <./Referat.pdf>]
-! Missing $ inserted.
-<inserted text> 
-                $
-l.159 \begin{thebibliography}{99}
-                                 
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-
-LaTeX Warning: Command \CYRR invalid in math mode on input line 159.
-
-
-LaTeX Warning: Command \cyryo invalid in math mode on input line 159.
-
-
-LaTeX Warning: Command \CYRS invalid in math mode on input line 159.
-
-
-LaTeX Warning: Command \' invalid in math mode on input line 159.
-
-! Please use \mathaccent for accents in math mode.
-\add@accent ... \let \ignorespaces \relax \accent 
-                                                  #1 #2\egroup \ifmmode \els...
-l.159 \begin{thebibliography}{99}
-                                 
-I'm changing \accent to \mathaccent here; wish me luck.
-(Accents are not the same in formulas as they are in text.)
-
-! Missing { inserted.
-<to be read again> 
-                   \begingroup 
-l.159 \begin{thebibliography}{99}
-                                 
-A left brace was mandatory here, so I've put one in.
-You might want to delete and/or insert some corrections
-so that I will find a matching right brace soon.
-(If you're confused by all this, try typing `I}' now.)
-
-
-LaTeX Warning: Command \CYRG invalid in math mode on input line 159.
-
-
-LaTeX Warning: Command \CYRS invalid in math mode on input line 159.
-
-
-LaTeX Warning: Command \quotesinglbase invalid in math mode on input line 159.
-
-
-LaTeX Warning: Command \quotesinglbase invalid in math mode on input line 159.
-
-! Improper \spacefactor.
-\save@sf@q ...@SF {\spacefactor \the \spacefactor 
-                                                  }#1\@SF \endgroup 
-l.159 \begin{thebibliography}{99}
-                                 
-You can refer to \spacefactor only in horizontal mode;
-you can refer to \prevdepth only in vertical mode; and
-neither of these is meaningful inside \write. So
-I'm forgetting what you said and using zero instead.
-
-! You can't use `\spacefactor' in math mode.
-\@SF ->\spacefactor 
-                    0
-l.159 \begin{thebibliography}{99}
-                                 
-Sorry, but I'm not programmed to handle this case;
-I'll just pretend that you didn't ask for it.
-If you're in the wrong mode, you might be able to
-return to the right one by typing `I}' or `I$' or `I\par'.
-
-
-LaTeX Warning: Command \CYRR invalid in math mode on input line 159.
-
-
-! LaTeX Error: Command \CYRR unavailable in encoding OT1.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.159 \begin{thebibliography}{99}
-                                 
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-LaTeX Warning: Command \cyrdze invalid in math mode on input line 159.
-
-
-! LaTeX Error: Command \cyrdze unavailable in encoding OT1.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.159 \begin{thebibliography}{99}
-                                 
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-LaTeX Warning: Command \CYRS invalid in math mode on input line 159.
-
-
-! LaTeX Error: Command \CYRS unavailable in encoding OT1.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.159 \begin{thebibliography}{99}
-                                 
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-LaTeX Warning: Command \CYRR invalid in math mode on input line 159.
-
-
-! LaTeX Error: Command \CYRR unavailable in encoding OT1.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.159 \begin{thebibliography}{99}
-                                 
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-LaTeX Warning: Command \CYRDZE invalid in math mode on input line 159.
-
-
-! LaTeX Error: Command \CYRDZE unavailable in encoding OT1.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.159 \begin{thebibliography}{99}
-                                 
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-LaTeX Warning: Command \CYRR invalid in math mode on input line 159.
-
-
-! LaTeX Error: Command \CYRR unavailable in encoding OT1.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.159 \begin{thebibliography}{99}
-                                 
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-LaTeX Warning: Command \cyryo invalid in math mode on input line 159.
-
-
-! LaTeX Error: Command \cyryo unavailable in encoding OT1.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.159 \begin{thebibliography}{99}
-                                 
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-LaTeX Warning: Command \CYRR invalid in math mode on input line 159.
-
-
-! LaTeX Error: Command \CYRR unavailable in encoding OT1.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.159 \begin{thebibliography}{99}
-                                 
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-LaTeX Warning: Command \cyrie invalid in math mode on input line 159.
-
-
-! LaTeX Error: Command \cyrie unavailable in encoding OT1.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.159 \begin{thebibliography}{99}
-                                 
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-LaTeX Warning: Command \CYRR invalid in math mode on input line 159.
-
-
-! LaTeX Error: Command \CYRR unavailable in encoding OT1.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.159 \begin{thebibliography}{99}
-                                 
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-LaTeX Warning: Command \cyryo invalid in math mode on input line 159.
-
-
-! LaTeX Error: Command \cyryo unavailable in encoding OT1.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.159 \begin{thebibliography}{99}
-                                 
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-LaTeX Warning: Command \CYRR invalid in math mode on input line 159.
-
-
-! LaTeX Error: Command \CYRR unavailable in encoding OT1.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.159 \begin{thebibliography}{99}
-                                 
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-LaTeX Warning: Command \cyryo invalid in math mode on input line 159.
-
-
-! LaTeX Error: Command \cyryo unavailable in encoding OT1.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.159 \begin{thebibliography}{99}
-                                 
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-LaTeX Warning: Command \CYRR invalid in math mode on input line 159.
-
-
-! LaTeX Error: Command \CYRR unavailable in encoding OT1.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.159 \begin{thebibliography}{99}
-                                 
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-LaTeX Warning: Command \CYRDZE invalid in math mode on input line 159.
-
-
-! LaTeX Error: Command \CYRDZE unavailable in encoding OT1.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.159 \begin{thebibliography}{99}
-                                 
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-LaTeX Warning: Command \CYRS invalid in math mode on input line 159.
-
-
-! LaTeX Error: Command \CYRS unavailable in encoding OT1.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.159 \begin{thebibliography}{99}
-                                 
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-LaTeX Warning: Command \quotedblbase invalid in math mode on input line 159.
-
-! Improper \spacefactor.
-\save@sf@q ...@SF {\spacefactor \the \spacefactor 
-                                                  }#1\@SF \endgroup 
-l.159 \begin{thebibliography}{99}
-                                 
-You can refer to \spacefactor only in horizontal mode;
-you can refer to \prevdepth only in vertical mode; and
-neither of these is meaningful inside \write. So
-I'm forgetting what you said and using zero instead.
-
-! You can't use `\spacefactor' in math mode.
-\@SF ->\spacefactor 
-                    0
-l.159 \begin{thebibliography}{99}
-                                 
-Sorry, but I'm not programmed to handle this case;
-I'll just pretend that you didn't ask for it.
-If you're in the wrong mode, you might be able to
-return to the right one by typing `I}' or `I$' or `I\par'.
-
-
-LaTeX Warning: Command \CYRR invalid in math mode on input line 159.
-
-
-! LaTeX Error: Command \CYRR unavailable in encoding OT1.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.159 \begin{thebibliography}{99}
-                                 
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-LaTeX Warning: Command \cyrdze invalid in math mode on input line 159.
-
-
-! LaTeX Error: Command \cyrdze unavailable in encoding OT1.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.159 \begin{thebibliography}{99}
-                                 
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-LaTeX Warning: Command \CYRS invalid in math mode on input line 159.
-
-
-! LaTeX Error: Command \CYRS unavailable in encoding OT1.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.159 \begin{thebibliography}{99}
-                                 
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-LaTeX Warning: Command \CYRDJE invalid in math mode on input line 159.
-
-
-! LaTeX Error: Command \CYRDJE unavailable in encoding OT1.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.159 \begin{thebibliography}{99}
-                                 
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-LaTeX Warning: Command \CYRR invalid in math mode on input line 159.
-
-
-! LaTeX Error: Command \CYRR unavailable in encoding OT1.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.159 \begin{thebibliography}{99}
-                                 
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-LaTeX Warning: Command \cyrje invalid in math mode on input line 159.
-
-
-! LaTeX Error: Command \cyrje unavailable in encoding OT1.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.159 \begin{thebibliography}{99}
-                                 
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-LaTeX Warning: Command \CYRR invalid in math mode on input line 159.
-
-
-! LaTeX Error: Command \CYRR unavailable in encoding OT1.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.159 \begin{thebibliography}{99}
-                                 
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-LaTeX Warning: Command \textdegree invalid in math mode on input line 159.
-
-
-LaTeX Warning: Command \textdegree invalid in math mode on input line 159.
-
-
-LaTeX Warning: Command \CYRS invalid in math mode on input line 159.
-
-
-! LaTeX Error: Command \CYRS unavailable in encoding TS1.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.159 \begin{thebibliography}{99}
-                                 
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-LaTeX Warning: Command \CYRR invalid in math mode on input line 159.
-
-
-! LaTeX Error: Command \CYRR unavailable in encoding TS1.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.159 \begin{thebibliography}{99}
-                                 
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-LaTeX Warning: Command \cyryo invalid in math mode on input line 159.
-
-
-! LaTeX Error: Command \cyryo unavailable in encoding TS1.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.159 \begin{thebibliography}{99}
-                                 
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-LaTeX Warning: Command \CYRR invalid in math mode on input line 159.
-
-
-! LaTeX Error: Command \CYRR unavailable in encoding TS1.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.159 \begin{thebibliography}{99}
-                                 
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-LaTeX Warning: Command \cyryo invalid in math mode on input line 159.
-
-
-! LaTeX Error: Command \cyryo unavailable in encoding TS1.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.159 \begin{thebibliography}{99}
-                                 
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.159 \begin{thebibliography}{99}
-                                 
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-Missing character: There is no Р in font cmr12!
-Missing character: There is no ј in font cmr12!
-Missing character: There is no С in font cmr12!
-Missing character: There is no Г in font cmr12!
-Missing character: There is no С in font cmr12!
-Missing character: There is no ° in font cmr12!
-
-! LaTeX Error: Lonely \item--perhaps a missing list environment.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.161   \bibitem {1}
-                    LaTeX -- Википедия [Электронный ресурс] URL: https://ru....
-
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-Underfull \hbox (badness 10000) detected at line 161
-[][]
- []
-
-! Undefined control sequence.
-<argument> \@listctr 
-                     
-l.161   \bibitem {1}
-                    LaTeX -- Википедия [Электронный ресурс] URL: https://ru....
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! You can't use `\relax' after \the.
-<recently read> \c@ 
-                    
-l.161   \bibitem {1}
-                    LaTeX -- Википедия [Электронный ресурс] URL: https://ru....
-I'm forgetting what you said and using zero instead.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 161--163
-[]\T2A/cmr/bx/n/14.4 LaTeX -- Ви-ки-пе-дия [Элек-трон-ный ре-сурс] URL:
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 161--163
-\T2A/cmr/bx/n/14.4 https://ru.wikipedia.org/wiki/LaTeX (да-та об-ра-ще-ния:
- []
-
-
-! LaTeX Error: Lonely \item--perhaps a missing list environment.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.163   \bibitem {2}
-                    СТО 1.04.01 -- 2019 <<КУРСОВЫЕ РАБОТЫ (ПРОЕКТЫ) И ВЫПУСК...
-
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-Underfull \hbox (badness 10000) detected at line 163
-[][]
- []
-
-! Undefined control sequence.
-<argument> \@listctr 
-                     
-l.163   \bibitem {2}
-                    СТО 1.04.01 -- 2019 <<КУРСОВЫЕ РАБОТЫ (ПРОЕКТЫ) И ВЫПУСК...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! You can't use `\relax' after \the.
-<recently read> \c@ 
-                    
-l.163   \bibitem {2}
-                    СТО 1.04.01 -- 2019 <<КУРСОВЫЕ РАБОТЫ (ПРОЕКТЫ) И ВЫПУСК...
-I'm forgetting what you said and using zero instead.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 163--165
-[]\T2A/cmr/bx/n/14.4 СТО 1.04.01 -- 2019 <<КУР-СО-ВЫЕ РА-БО-ТЫ (ПРО-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 163--165
-\T2A/cmr/bx/n/14.4 ЕК-ТЫ) И ВЫ-ПУСК-НЫЕ КВА-ЛИ-ФИ-КА-ЦИ-ОН-НЫЕ
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 163--165
-\T2A/cmr/bx/n/14.4 РА-БО-ТЫ. ПО-РЯ-ДОК ВЫ-ПОЛ-НЕ-НИЯ, СТРУК-ТУ-РА
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 163--165
-\T2A/cmr/bx/n/14.4 И ПРА-ВИ-ЛА ОФОРМ-ЛЕ-НИЯ>> [Элек-трон-ный ре-сурс]
- []
-
-
-Overfull \hbox (69.60396pt too wide) in paragraph at lines 163--165
-\T2A/cmr/bx/n/14.4 URL:https://www.sgu.ru/sites/default/files/documents/2021/of
-ormlenie_ 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 163--165
-\T2A/cmr/bx/n/14.4 kursovyh_i_diplomnyh_rabot.pdf (да-та об-ра-ще-ния:
- []
-
-
-! LaTeX Error: Lonely \item--perhaps a missing list environment.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.165   \bibitem {3}
-                    Воронцов К.В. LaTex2e в примерах [Электронный ресурс] UR...
-
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-Underfull \hbox (badness 10000) detected at line 165
-[][]
- []
-
-! Undefined control sequence.
-<argument> \@listctr 
-                     
-l.165   \bibitem {3}
-                    Воронцов К.В. LaTex2e в примерах [Электронный ресурс] UR...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! You can't use `\relax' after \the.
-<recently read> \c@ 
-                    
-l.165   \bibitem {3}
-                    Воронцов К.В. LaTex2e в примерах [Электронный ресурс] UR...
-I'm forgetting what you said and using zero instead.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 165--167
-\T2A/cmr/bx/n/14.4 URL: http://www.ccas.ru/voron/download/voron05latex.pdf
- []
-
-
-! LaTeX Error: Lonely \item--perhaps a missing list environment.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.167   \bibitem {4}
-                    Столяров А.В. Сверстай диплом красиво: LaTeX за три дня ...
-
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-Underfull \hbox (badness 10000) detected at line 167
-[][]
- []
-
-! Undefined control sequence.
-<argument> \@listctr 
-                     
-l.167   \bibitem {4}
-                    Столяров А.В. Сверстай диплом красиво: LaTeX за три дня ...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! You can't use `\relax' after \the.
-<recently read> \c@ 
-                    
-l.167   \bibitem {4}
-                    Столяров А.В. Сверстай диплом красиво: LaTeX за три дня ...
-I'm forgetting what you said and using zero instead.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 167--169
-[]\T2A/cmr/bx/n/14.4 Столяров А.В. Свер-стай ди-плом кра-си-во:
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 167--169
-\T2A/cmr/bx/n/14.4 LaTeX за три дня Элек-трон-ный ре-сурс] URL:
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 167--169
-\T2A/cmr/bx/n/14.4 http://www.stolyarov.info/books/pdf/latex3days.pdf (да-та
- []
-
-
-! LaTeX Error: Lonely \item--perhaps a missing list environment.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.169   \bibitem {5}
-                    LaTeX  -- Wikibooks, open books for an open world [Элект...
-
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-Underfull \hbox (badness 10000) detected at line 169
-[][]
- []
-
-! Undefined control sequence.
-<argument> \@listctr 
-                     
-l.169   \bibitem {5}
-                    LaTeX  -- Wikibooks, open books for an open world [Элект...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! You can't use `\relax' after \the.
-<recently read> \c@ 
-                    
-l.169   \bibitem {5}
-                    LaTeX  -- Wikibooks, open books for an open world [Элект...
-I'm forgetting what you said and using zero instead.
-
-
-! LaTeX Error: Lonely \item--perhaps a missing list environment.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.171  \bibitem {6}
-                   Опенгейм А. В., Шафер Р. В. Цифровая обработка сигналов. ...
-
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-Underfull \hbox (badness 10000) detected at line 171
-[][]
- []
-
-! Undefined control sequence.
-<argument> \@listctr 
-                     
-l.171  \bibitem {6}
-                   Опенгейм А. В., Шафер Р. В. Цифровая обработка сигналов. ...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! You can't use `\relax' after \the.
-<recently read> \c@ 
-                    
-l.171  \bibitem {6}
-                   Опенгейм А. В., Шафер Р. В. Цифровая обработка сигналов. ...
-I'm forgetting what you said and using zero instead.
-
-
-! LaTeX Error: Lonely \item--perhaps a missing list environment.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.173  \bibitem {7}
-                   Рэбинар Л., Голд Б. Теория и применение цифровой обработк...
-
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-Underfull \hbox (badness 10000) detected at line 173
-[][]
- []
-
-! Undefined control sequence.
-<argument> \@listctr 
-                     
-l.173  \bibitem {7}
-                   Рэбинар Л., Голд Б. Теория и применение цифровой обработк...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! You can't use `\relax' after \the.
-<recently read> \c@ 
-                    
-l.173  \bibitem {7}
-                   Рэбинар Л., Голд Б. Теория и применение цифровой обработк...
-I'm forgetting what you said and using zero instead.
-
-
-! LaTeX Error: Lonely \item--perhaps a missing list environment.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.175  \bibitem {8}
-                   Nika Aldrich. Digital Audio Explained: For the Audio Engi...
-
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-Underfull \hbox (badness 10000) detected at line 175
-[][]
- []
-
-! Undefined control sequence.
-<argument> \@listctr 
-                     
-l.175  \bibitem {8}
-                   Nika Aldrich. Digital Audio Explained: For the Audio Engi...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! You can't use `\relax' after \the.
-<recently read> \c@ 
-                    
-l.175  \bibitem {8}
-                   Nika Aldrich. Digital Audio Explained: For the Audio Engi...
-I'm forgetting what you said and using zero instead.
+<Referat.pdf, id=381, page=19, 597.50829pt x 845.0471pt>
+File: Referat.pdf Graphic file (type pdf)
+<use Referat.pdf, page 19>
+Package pdftex.def Info: Referat.pdf , page19 used on input line 149.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: Referat.pdf Graphic file (type pdf)
+<use Referat.pdf, page 19>
+Package pdftex.def Info: Referat.pdf , page19 used on input line 149.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: Referat.pdf Graphic file (type pdf)
+<use Referat.pdf, page 19>
+Package pdftex.def Info: Referat.pdf , page19 used on input line 149.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 
 [24
 
+ <./Referat.pdf>]
+<Referat.pdf, id=386, page=20, 597.50829pt x 845.0471pt>
+File: Referat.pdf Graphic file (type pdf)
+<use Referat.pdf, page 20>
+Package pdftex.def Info: Referat.pdf , page20 used on input line 149.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: Referat.pdf Graphic file (type pdf)
+<use Referat.pdf, page 20>
+Package pdftex.def Info: Referat.pdf , page20 used on input line 149.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: Referat.pdf Graphic file (type pdf)
+<use Referat.pdf, page 20>
+Package pdftex.def Info: Referat.pdf , page20 used on input line 149.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [25
+
+ <./Referat.pdf>]
+<Referat.pdf, id=392, page=21, 597.50829pt x 845.0471pt>
+File: Referat.pdf Graphic file (type pdf)
+<use Referat.pdf, page 21>
+Package pdftex.def Info: Referat.pdf , page21 used on input line 149.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: Referat.pdf Graphic file (type pdf)
+<use Referat.pdf, page 21>
+Package pdftex.def Info: Referat.pdf , page21 used on input line 149.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: Referat.pdf Graphic file (type pdf)
+<use Referat.pdf, page 21>
+Package pdftex.def Info: Referat.pdf , page21 used on input line 149.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [26
+
+ <./Referat.pdf>]
+<Referat.pdf, id=397, page=22, 597.50829pt x 845.0471pt>
+File: Referat.pdf Graphic file (type pdf)
+<use Referat.pdf, page 22>
+Package pdftex.def Info: Referat.pdf , page22 used on input line 149.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: Referat.pdf Graphic file (type pdf)
+<use Referat.pdf, page 22>
+Package pdftex.def Info: Referat.pdf , page22 used on input line 149.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: Referat.pdf Graphic file (type pdf)
+<use Referat.pdf, page 22>
+Package pdftex.def Info: Referat.pdf , page22 used on input line 149.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [27
+
+ <./Referat.pdf>]
+<Referat.pdf, id=402, page=23, 597.50829pt x 845.0471pt>
+File: Referat.pdf Graphic file (type pdf)
+<use Referat.pdf, page 23>
+Package pdftex.def Info: Referat.pdf , page23 used on input line 149.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: Referat.pdf Graphic file (type pdf)
+<use Referat.pdf, page 23>
+Package pdftex.def Info: Referat.pdf , page23 used on input line 149.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: Referat.pdf Graphic file (type pdf)
+<use Referat.pdf, page 23>
+Package pdftex.def Info: Referat.pdf , page23 used on input line 149.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [28
+
+ <./Referat.pdf>]
+<Referat.pdf, id=407, page=24, 597.50829pt x 845.0471pt>
+File: Referat.pdf Graphic file (type pdf)
+<use Referat.pdf, page 24>
+Package pdftex.def Info: Referat.pdf , page24 used on input line 149.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: Referat.pdf Graphic file (type pdf)
+<use Referat.pdf, page 24>
+Package pdftex.def Info: Referat.pdf , page24 used on input line 149.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: Referat.pdf Graphic file (type pdf)
+<use Referat.pdf, page 24>
+Package pdftex.def Info: Referat.pdf , page24 used on input line 149.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [29
+
+ <./Referat.pdf>] [30
+
 ]
-
-! LaTeX Error: Lonely \item--perhaps a missing list environment.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.177  \bibitem {9}
-                   John Watkinson. The Art of Digital Audio. Oxford ; Boston...
-
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-Underfull \hbox (badness 10000) detected at line 177
-[][]
+Underfull \hbox (badness 10000) in paragraph at lines 159--161
+[]\T2A/cmr/m/n/14.4 LaTeX -- Ви-ки-пе-дия [Элек-трон-ный ре-сурс] URL:
  []
 
-! Undefined control sequence.
-<argument> \@listctr 
-                     
-l.177  \bibitem {9}
-                   John Watkinson. The Art of Digital Audio. Oxford ; Boston...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
 
-! You can't use `\relax' after \the.
-<recently read> \c@ 
-                    
-l.177  \bibitem {9}
-                   John Watkinson. The Art of Digital Audio. Oxford ; Boston...
-I'm forgetting what you said and using zero instead.
-
-
-! LaTeX Error: Lonely \item--perhaps a missing list environment.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.179  \bibitem {10}
-                    Мюллер М. Fundamentals of Music Processing: Audio, Analy...
-
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-Underfull \hbox (badness 10000) detected at line 179
-[][]
+Underfull \hbox (badness 10000) in paragraph at lines 161--163
+[]\T2A/cmr/m/n/14.4 СТО 1.04.01 -- 2019 <<КУР-СО-ВЫЕ РА-БО-ТЫ (ПРО-ЕК-
  []
 
-! Undefined control sequence.
-<argument> \@listctr 
-                     
-l.179  \bibitem {10}
-                    Мюллер М. Fundamentals of Music Processing: Audio, Analy...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
 
-! You can't use `\relax' after \the.
-<recently read> \c@ 
-                    
-l.179  \bibitem {10}
-                    Мюллер М. Fundamentals of Music Processing: Audio, Analy...
-I'm forgetting what you said and using zero instead.
+Underfull \hbox (badness 10000) in paragraph at lines 161--163
+\T2A/cmr/m/n/14.4 ТЫ) И ВЫ-ПУСК-НЫЕ КВА-ЛИ-ФИ-КА-ЦИ-ОН-НЫЕ РА-БО-
+ []
 
-! Missing } inserted.
-<inserted text> 
-                }
-l.182 \end{thebibliography}
-                           
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
 
-[25] [26
+Underfull \hbox (badness 10000) in paragraph at lines 161--163
+\T2A/cmr/m/n/14.4 ТЫ. ПО-РЯ-ДОК ВЫ-ПОЛ-НЕ-НИЯ, СТРУК-ТУ-РА И ПРА-
+ []
 
-] [27] [28] [29] [30] [31] [32] [33] [34] [35] [36] [37] [38] [39]
-[40] [41] [42] [43] [44] [45] [46] [47] [48] [49] [50] (РџСЂР°РєС‚РёРєР°.aux)
+
+Underfull \hbox (badness 10000) in paragraph at lines 161--163
+\T2A/cmr/m/n/14.4 ВИ-ЛА ОФОРМ-ЛЕ-НИЯ>> [Элек-трон-ный ре-сурс] URL:
+ []
+
+
+Underfull \hbox (badness 4036) in paragraph at lines 163--165
+[]\T2A/cmr/m/n/14.4 Воронцов К.В. LaTex2e в при-ме-рах [Элек-трон-ный ре-сурс] 
+URL:
+ []
+
+
+Underfull \hbox (badness 4024) in paragraph at lines 163--165
+\T2A/cmr/m/n/14.4 http://www.ccas.ru/voron/download/voron05latex.pdf (да-та об-
+ра-ще-ния:
+ []
+
+LaTeX Font Info:    Trying to load font information for T2A+cmtt on input line 
+177.
+(C:\Users\karas\AppData\Local\Programs\MiKTeX\tex/latex/cyrillic\t2acmtt.fd
+File: t2acmtt.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
+)
+[31
+
+] [32
+
+] [33] [34] [35] [36] [37] [38] [39] [40] [41] [42] [43] [44] [45]
+(РџСЂР°РєС‚РёРєР°.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
  ***********
-Package rerunfilecheck Info: File `РџСЂР°РєС‚РёРєР°.out' has not changed.
-(rerunfilecheck)             Checksum: 4157FD25D17C834C5BF094786D8E5383;747.
+
+
+Package rerunfilecheck Warning: File `РџСЂР°РєС‚РёРєР°.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `РџСЂР°РєС‚РёРєР°.out':
+(rerunfilecheck)             Before: 840D4CD62235E6D2B540B23B01BC0515;1079
+(rerunfilecheck)             After:  852430BD776C8AD55EA79356EE334A88;1135.
  ) 
 Here is how much of TeX's memory you used:
- 19148 strings out of 474486
- 303168 string characters out of 5743754
- 2161542 words of memory out of 5000000
- 40591 multiletter control sequences out of 15000+600000
- 564880 words of font info for 54 fonts, out of 8000000 for 9000
+ 17045 strings out of 474486
+ 274571 string characters out of 5743754
+ 1936542 words of memory out of 5000000
+ 39015 multiletter control sequences out of 15000+600000
+ 566117 words of font info for 55 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,17n,79p,834b,1914s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,17n,79p,834b,652s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\karas\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm08
-00.pk> <C:\Users\karas\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\
-tcrm1440.pk> <C:\Users\karas\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi
-600\larm1000.pk> <C:\Users\karas\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a
-/dpi600\labx1440.pk> <C:\Users\karas\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh
--t2a/dpi600\larm1440.pk><C:/Users/karas/AppData/Local/Programs/MiKTeX/fonts/typ
-e1/public/amsfonts/cm/cmbx12.pfb><C:/Users/karas/AppData/Local/Programs/MiKTeX/
-fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/karas/AppData/Local/Program
-s/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/karas/AppData/Loca
-l/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/karas/App
-Data/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/k
-aras/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:
-/Users/karas/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12
-.pfb><C:/Users/karas/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/
-cm/cmr7.pfb><C:/Users/karas/AppData/Local/Programs/MiKTeX/fonts/type1/public/am
-sfonts/cm/cmsy10.pfb><C:/Users/karas/AppData/Local/Programs/MiKTeX/fonts/type1/
-public/amsfonts/cm/cmsy7.pfb><C:/Users/karas/AppData/Local/Programs/MiKTeX/font
-s/type1/public/amsfonts/symbols/msam10.pfb><C:/Users/karas/AppData/Local/Progra
-ms/MiKTeX/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on РџСЂР°РєС‚РёРєР°.pdf (50 pages, 838564 bytes).
+00.pk> <C:\Users\karas\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\la
+tt1200.pk> <C:\Users\karas\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi60
+0\larm0600.pk> <C:\Users\karas\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/d
+pi600\latt1440.pk> <C:\Users\karas\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t
+2a/dpi600\larm1000.pk> <C:\Users\karas\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/
+lh-t2a/dpi600\labx1440.pk> <C:\Users\karas\AppData\Local\MiKTeX\fonts/pk/ljfour
+/lh/lh-t2a/dpi600\larm1440.pk>
+Output written on РџСЂР°РєС‚РёРєР°.pdf (45 pages, 964331 bytes).
 PDF statistics:
- 1689 PDF objects out of 1728 (max. 8388607)
- 585 named destinations out of 1000 (max. 500000)
- 138 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 940 PDF objects out of 1000 (max. 8388607)
+ 63 named destinations out of 1000 (max. 500000)
+ 176 words of extra memory for PDF output out of 10000 (max. 10000000)
 

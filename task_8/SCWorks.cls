@@ -318,9 +318,9 @@
 \setlength{\abovecaptionskip}{1ex}
 
 \captionsetup[figure]{name=\CYRR\cyri\cyrs\cyru\cyrn\cyro\cyrk, labelsep=endash,
-                justification=centering, font={normalsize}, skip=\abovecaptionskip, position=below}
+                justification=centering, font={small}, skip=\abovecaptionskip, position=below}
 \captionsetup[table]{name=\CYRT\cyra\cyrb\cyrl\cyri\cyrc\cyra, labelsep=endash, format=plain,
-                justification=RaggedRight, singlelinecheck=false, font={normalsize}, position=top}
+                justification=RaggedRight, singlelinecheck=false, font={small}, position=top}
 
 % --------------------------------------------------------------------------%
 % Table of contents
@@ -880,8 +880,9 @@ itemsep=0pt%\parsep
 
 \renewenvironment{thebibliography}[1]
 {
-  \textbf{\cyr
-  Основные источники информации:}
+  \starsection{\cyr\CYRS\CYRP\CYRI\CYRS\CYRO\CYRK\ \CYRI\CYRS\CYRP\CYRO\CYRL%
+  \CYRSFTSN\CYRZ\CYRO\CYRV\CYRA\CYRN\CYRN\CYRERY\CYRH\ \CYRI\CYRS\CYRT%
+  \CYRO\CYRCH\CYRN\CYRI\CYRK\CYRO\CYRV}
   \list{\@biblabel{\@arabic\c@enumiv}}%
   {\settowidth\labelwidth{\@biblabel{#1}}%
     \leftmargin\labelwidth

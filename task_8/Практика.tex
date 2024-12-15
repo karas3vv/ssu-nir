@@ -40,8 +40,6 @@
 
 \usepackage{caption}
 \captionsetup[figure]{font= normalsize, labelfont=normalsize}
-\usepackage{listings}
-\lstset{postbreak=\space, breakindent=5pt, breaklines}
 
 
 \begin{document}
@@ -97,11 +95,11 @@
 
 % Даты начала и окончания практики (только для практики, для остальных
 % типов работ не используется)
-\practStart{01.09.2023}
-\practFinish{31.12.2023}
+\practStart{01.09.2024}
+\practFinish{31.12.2024}
 
 % Год выполнения отчета
-\date{2023}
+\date{2024}
 
 \maketitle
 
@@ -144,7 +142,7 @@
 
 Основы работы с \LaTeX изложены в источниках \ [3-5].
 
-\section{Реферат по теме <<Тема реферата>>}
+\section{Реферат по теме <<Цифровая обработка звука>>}
 
 В данном разделе показан результат компиляции, исходный код документа представлен в приложении А.
 
@@ -160,7 +158,7 @@
 
   \bibitem {1}LaTeX -- Википедия [Электронный ресурс] URL: https://ru.wikipedia.org/wiki/LaTeX (дата обращения: 23.12.2022
   \label{1}
-  \bibitem {2}СТО 1.04.01 -- 2019 <<КУРСОВЫЕ РАБОТЫ (ПРОЕКТЫ) И ВЫПУСКНЫЕ КВАЛИФИКАЦИОННЫЕ РАБОТЫ. ПОРЯДОК ВЫПОЛНЕНИЯ, СТРУКТУРА И ПРАВИЛА ОФОРМЛЕНИЯ>> [Электронный ресурс] URL:https://www.sgu.ru/sites/default/files/documents/2021/oformlenie\_\\kursovyh\_i\_diplomnyh\_rabot.pdf (дата обращения: 23.12.2022)
+  \bibitem {2}СТО 1.04.01 -- 2019 <<КУРСОВЫЕ РАБОТЫ (ПРОЕКТЫ) И ВЫПУСКНЫЕ КВАЛИФИКАЦИОННЫЕ РАБОТЫ. ПОРЯДОК ВЫПОЛНЕНИЯ, СТРУКТУРА И ПРАВИЛА ОФОРМЛЕНИЯ>> [Электронный ресурс] URL: https://www.sgu.ru/sites/default/files/documents/2021/oformlenie\_\\kursovyh\_i\_diplomnyh\_rabot.pdf (дата обращения: 23.12.2022)
   \label{2}
   \bibitem {3}Воронцов К.В. LaTex2e в примерах [Электронный ресурс] URL: http://www.ccas.ru/voron/download/voron05latex.pdf (дата обращения: 23.12.2022)
   \label{3}
@@ -172,11 +170,11 @@
   \label{6}
  \bibitem {7}Рэбинар Л., Голд Б. Теория и применение цифровой обработки сигналов. Мир, 1978.
   \label{7}
- \bibitem {8}Nika Aldrich. Digital Audio Explained: For the Audio Engineer. CreateSpace, 2004.
+ \bibitem {8}John Watkinson. The Art of Digital Audio. Oxford ; Boston, 2001.
   \label{8}
- \bibitem {9}John Watkinson. The Art of Digital Audio. Oxford ; Boston, 2001.
+ \bibitem {9}Nika Aldrich. Digital Audio Explained: For the Audio Engineer. CreateSpace, 2004.
   \label{9}
- \bibitem {10}Мюллер М. Fundamentals of Music Processing: Audio, Analysis, Algorithms, Applications. Springer, 2015.
+ \bibitem {10} Обзор методов улучшения речи и шумоподавления: от классики к SotA / Хабр [Электронный ресурс] URL: \url{https://habr.com/ru/companies/ru_mts/articles/584308/} (дата обращения: 13.11.2024)
    \label{10}
  
 \end{thebibliography}
@@ -192,7 +190,7 @@
 
 \section{Исходный код документа}
 
-\begin{lstlisting}
+\begin{Verbatim}[fontsize=\small, numbers=left]
 \documentclass[bachelor, och, referat]{SCWorks}
 % параметр - тип обучения - одно из значений:
 %    spec     - специальность
@@ -710,7 +708,8 @@
 		\end{flushright}
 	\end{figure}
 \end{document}
-\end{lstlisting}
+
+\end{Verbatim}
 
 \newpage 
 
