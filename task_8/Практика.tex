@@ -1,6 +1,6 @@
 \documentclass[bachelor, och, pract]{SCWorks}
 % параметр - тип обучения - одно из значений:
-%    spec     - специальность
+%    spec     - спеиальность
 %    bachelor - бакалавриат (по умолчанию)
 %    master   - магистратура
 % параметр - форма обучения - одно из значений:
@@ -34,7 +34,9 @@
 \usepackage[english,russian]{babel}
 \usepackage{caption}
 \captionsetup[figure]{font= normalsize, labelfont=normalsize}
+\usepackage{listings}
 
+\lstset{postbreak=\space, breakindent=5pt, breaklines}
 
 \usepackage[colorlinks=true]{hyperref}
 
@@ -189,7 +191,7 @@
 \appendix
 
 \section{Исходный код документа}
-
+\begin{lstlisting}
 \begin{Verbatim}[fontsize=\small, numbers=left]
 \documentclass[bachelor, och, referat]{SCWorks}
 % параметр - тип обучения - одно из значений:
@@ -710,7 +712,7 @@
 \end{document}
 
 \end{Verbatim}
-
+\end{lstlisting}
 \newpage 
 
 \begin{figure}
